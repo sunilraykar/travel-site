@@ -1,0 +1,21 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "daemon": {
+      "integrity": "sha1-bFECyB2wvoVvyQCPwsk1s5iGSug=",
+      "resolved": "https://registry.npmjs.org/daemon/-/daemon-1.1.0.tgz",
+      "version": "1.1.0"
+    },
+    "init": {
+      "integrity": "sha1-mIKsFScHvMun/iIHyN+AUIdcFQQ=",
+      "requires": {
+        "daemon": ">=0.3.0"
+      },
+      "resolved": "https://registry.npmjs.org/init/-/init-0.1.2.tgz",
+      "version": "0.1.2"
+    },
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
